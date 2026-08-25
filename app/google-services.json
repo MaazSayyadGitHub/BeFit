@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "859859233429",
+    "project_id": "befit-96cfb",
+    "storage_bucket": "befit-96cfb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859859233429:android:1e2ef3e0ec6891a646899c",
+        "android_client_info": {
+          "package_name": "com.maaz.befit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859859233429-4l3t5sh94k47qfp02lf2b3jnmjll9r52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maaz.befit",
+            "certificate_hash": "d7424c8b1e0a8e9b5fb5514139a2b214ec0ad82e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAflouKCjFjuBptPKj8M_G-TA1Aae6KmmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
