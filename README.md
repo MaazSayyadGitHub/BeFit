@@ -35,22 +35,22 @@ Perfect for:
 ---
 
 ## ✨ Highlights
-📱 Market-Ready Health Tracker App (Jetpack Compose)
-💧 Water Tracking — Daily intake, goals, quick add + custom add
-👣 Steps Tracking — Progress stats, streaks & daily goals
-😴 Sleep Tracking — Sleep hours monitoring + insights
-🏃‍♂️ Running Tracker (Google Maps) — Real-time route tracking + dashed polyline
-📍 Live GPS Tracking — Pace, distance, duration, live stats
-📊 Reports & Analytics — Weekly/monthly trends, averages, streaks + charts
-📤 CSV / Excel Export — Export water, steps, sleep & run history
-🔔 Smart Notifications — Reminders for water, sleep, workouts & goals
-🎧 Meditation & Sleep Sounds — Rain, Ocean, Forest, White Noise + timer
-🎨 Themes & Accessibility — Light/Dark + High Contrast mode
-🔐 Firebase Authentication — Login/Signup with validation + animations
-🧠 Google Fit Integration — Sync steps/distance/heart rate
-📡 Offline-First System — Room database for smooth offline experience
-🏗️ Modern Architecture — MVVM + Hilt + Coroutines + Flow
-💎 Premium UI Design — Clean, modern & production-style interface
+📱 Market-Ready Health Tracker App (Jetpack Compose)<br>
+💧 Water Tracking — Daily intake, goals, quick add + custom add<br>
+👣 Steps Tracking — Progress stats, streaks & daily goals<br>
+😴 Sleep Tracking — Sleep hours monitoring + insights<br>
+🏃‍♂️ Running Tracker (Google Maps) — Real-time route tracking + dashed polyline<br>
+📍 Live GPS Tracking — Pace, distance, duration, live stats<br>
+📊 Reports & Analytics — Weekly/monthly trends, averages, streaks + charts<br>
+📤 CSV / Excel Export — Export water, steps, sleep & run history<br>
+🔔 Smart Notifications — Reminders for water, sleep, workouts & goals<br>
+🎧 Meditation & Sleep Sounds — Rain, Ocean, Forest, White Noise + timer<br>
+🎨 Themes & Accessibility — Light/Dark + High Contrast mode<br>
+🔐 Firebase Authentication — Login/Signup with validation + animations<br>
+🧠 Google Fit Integration — Sync steps/distance/heart rate<br>
+📡 Offline-First System — Room database for smooth offline experience<br>
+🏗️ Modern Architecture — MVVM + Hilt + Coroutines + Flow<br>
+💎 Premium UI Design — Clean, modern & production-style interface<br>
 
 ---
 
