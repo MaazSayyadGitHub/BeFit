@@ -3,11 +3,8 @@ BeFit is a market-ready Health & Activity Tracker Android application built usin
 
 This project demonstrates how real-world Android apps are designed and built from scratch using modern architecture, scalable code structure, and premium UI design.
 
-------------------------------------------------------------
-![Demo App](/res/drawable/maxresdefault-20.jpg)
-------------------------------------------------------------
-
-Perfect for: • Beginners
+Perfect for: 
+• Beginners
 • College students
 • Android developers
 • Anyone who wants to understand production-level coding
