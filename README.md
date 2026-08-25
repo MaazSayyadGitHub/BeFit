@@ -13,7 +13,7 @@ Perfect for:
 
 ## ScreenShots
 
-<img width="722" height="1600" alt="Image" src="https://github.com/user-attachments/assets/b6d5bcf7-3459-4443-9f13-2130eacc63d1" />
+<img width="500" height="1200" alt="Image" src="https://github.com/user-attachments/assets/b6d5bcf7-3459-4443-9f13-2130eacc63d1" />
 <img width="722" height="1600" alt="Image" src="https://github.com/user-attachments/assets/617adeae-93d6-4cfa-bbbc-d910b391e05c" />
 <img width="722" height="1600" alt="Image" src="https://github.com/user-attachments/assets/5284585d-fdb0-4b87-8891-47f9a4b77752" />
 <img width="722" height="1600" alt="Image" src="https://github.com/user-attachments/assets/cb2a59c5-5ee8-4c67-b717-b988660d0894" />
