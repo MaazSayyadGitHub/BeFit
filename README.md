@@ -11,6 +11,26 @@ Perfect for:
 
 ---
 
+## ✨ Highlights
+📱 Market-Ready Health Tracker App (Jetpack Compose)<br>
+💧 Water Tracking — Daily intake, goals, quick add + custom add<br>
+👣 Steps Tracking — Progress stats, streaks & daily goals<br>
+😴 Sleep Tracking — Sleep hours monitoring + insights<br>
+🏃‍♂️ Running Tracker (Google Maps) — Real-time route tracking + dashed polyline<br>
+📍 Live GPS Tracking — Pace, distance, duration, live stats<br>
+📊 Reports & Analytics — Weekly/monthly trends, averages, streaks + charts<br>
+📤 CSV / Excel Export — Export water, steps, sleep & run history<br>
+🔔 Smart Notifications — Reminders for water, sleep, workouts & goals<br>
+🎧 Meditation & Sleep Sounds — Rain, Ocean, Forest, White Noise + timer<br>
+🎨 Themes & Accessibility — Light/Dark + High Contrast mode<br>
+🔐 Firebase Authentication — Login/Signup with validation + animations<br>
+🧠 Google Fit Integration — Sync steps/distance/heart rate<br>
+📡 Offline-First System — Room database for smooth offline experience<br>
+🏗️ Modern Architecture — MVVM + Hilt + Coroutines + Flow<br>
+💎 Premium UI Design — Clean, modern & production-style interface<br>
+
+---
+
 ## ScreenShots
 
 <img width="200" height="430" alt="Image" src="https://github.com/user-attachments/assets/a31e7da2-66a4-4a50-a380-f2aa045ca8da" />
@@ -31,26 +51,6 @@ Perfect for:
 <img width="200" height="430" alt="Image" src="https://github.com/user-attachments/assets/3f489641-f56f-4181-9bfd-c0242d2f6cf9" />
 <img width="200" height="430" alt="Image" src="https://github.com/user-attachments/assets/3f1e2f3d-b2cf-4b8f-a278-68bbaccd24c8" />
 <img width="200" height="430" alt="Image" src="https://github.com/user-attachments/assets/4d079e06-4cbf-4b8a-b99b-fae3b737ded0" />
-
----
-
-## ✨ Highlights
-📱 Market-Ready Health Tracker App (Jetpack Compose)<br>
-💧 Water Tracking — Daily intake, goals, quick add + custom add<br>
-👣 Steps Tracking — Progress stats, streaks & daily goals<br>
-😴 Sleep Tracking — Sleep hours monitoring + insights<br>
-🏃‍♂️ Running Tracker (Google Maps) — Real-time route tracking + dashed polyline<br>
-📍 Live GPS Tracking — Pace, distance, duration, live stats<br>
-📊 Reports & Analytics — Weekly/monthly trends, averages, streaks + charts<br>
-📤 CSV / Excel Export — Export water, steps, sleep & run history<br>
-🔔 Smart Notifications — Reminders for water, sleep, workouts & goals<br>
-🎧 Meditation & Sleep Sounds — Rain, Ocean, Forest, White Noise + timer<br>
-🎨 Themes & Accessibility — Light/Dark + High Contrast mode<br>
-🔐 Firebase Authentication — Login/Signup with validation + animations<br>
-🧠 Google Fit Integration — Sync steps/distance/heart rate<br>
-📡 Offline-First System — Room database for smooth offline experience<br>
-🏗️ Modern Architecture — MVVM + Hilt + Coroutines + Flow<br>
-💎 Premium UI Design — Clean, modern & production-style interface<br>
 
 ---
 
