@@ -162,8 +162,8 @@ By completing this project, you will learn:
 
 ---
 
-## 🚀 Full Tutorial
-This project is part of a 10+ hour complete build tutorial covering: 
+## 🚀 Full Cover
+This project is covered with complete build :
 • UI Design
 • Architecture Setup
 • Backend Integration
